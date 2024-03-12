@@ -18,6 +18,10 @@
   
     En esta clase estamos aprendiendo sobre narrativa de juegos, también sobre las mecánicas, dinámicas y todos los elementos a tomar en cuenta cuando se crea un juego.
 
+  5. **Proyecto de App - Sebastian Mejia**
+  
+    En esta clase estamos aprendiendo sobre bases de datos utilizando MySQL, también estamos viendo el proceso de la toma de requerimientos para algún proyecto en específico.
+
 
 
 
