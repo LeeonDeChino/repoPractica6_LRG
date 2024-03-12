@@ -14,6 +14,9 @@
   
     En esta clase estamos aprendiendo a utilizar Photoshop, así como los principios básicos del diseño gráfico.
     
+  4. **Diseño de Videojuegos - Hector Guerrero**
+  
+    En esta clase estamos aprendiendo sobre narrativa de juegos, también sobre las mecánicas, dinámicas y todos los elementos a tomar en cuenta cuando se crea un juego.
 
 
 
