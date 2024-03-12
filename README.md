@@ -9,6 +9,10 @@
   2. **Sistemas Operativos - Osiel Morales**
   
     En esta clase estamos aprendiendo sobre el concepto básico de un sistema operativo, también sobre sus funciones y sus componentes.
+
+  3. **Principios de Composición y Diseño - Roberto Melo**
+  
+    En esta clase estamos aprendiendo a utilizar Photoshop, así como los principios básicos del diseño gráfico.
     
 
 
