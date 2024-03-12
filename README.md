@@ -6,7 +6,12 @@
     
     En esta clase estamos aprendiendo sobre Git, trabajando desde Visual Studio y con repositorios en GitHub.
 
+  2. **Sistemas Operativos - Osiel Morales**
+  
+    En esta clase estamos aprendiendo sobre el concepto básico de un sistema operativo, también sobre sus funciones y sus componentes.
     
+
+
 
 
 
