@@ -22,7 +22,9 @@
   
     En esta clase estamos aprendiendo sobre bases de datos utilizando MySQL, también estamos viendo el proceso de la toma de requerimientos para algún proyecto en específico.
 
+## Updates
 
+Creando la versión 1.0.0 de este repositorio.
 
 
 
