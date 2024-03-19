@@ -28,5 +28,6 @@ _13/03/2024_ - Creando la versión 1.0.0 de este repositorio.
 
 _13/03/2024_ - Creando la versión 1.1.0 de este repositorio.
 
-_19/03/2024_ - Realizando la práctica 8.
+_19/03/2024_ - Realizando la [práctica 8](practica-8.md).
+
 
